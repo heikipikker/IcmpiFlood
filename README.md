@@ -23,7 +23,7 @@ sudo python IcmpiFlood.py sampleWebsite.com
 ```
 
 ```shell
-sudo python piroute.py 192.168.1.1 //IP adress of sampleWebsite
+sudo python piroute.py <ip adress of sampleWebsite.com> //IP adress of sampleWebsite
 ```
 ## Built With
 
@@ -31,6 +31,9 @@ sudo python piroute.py 192.168.1.1 //IP adress of sampleWebsite
 * [Scapy 2.3.3](http://www.secdev.org/projects/scapy/) - Used to generate network packets
 * [multiprocessing](https://docs.python.org/2/library/multiprocessing.html) - For multiprocessing processes
 
+## Warning
+
+Just use this tool for education purposes.
 
 <p align="center">
 <img src="https://github.com/pioneerhfy/piroute/blob/master/blastoise-black.jpg" width="200" height="300">
