@@ -23,7 +23,7 @@ sudo python IcmpiFlood.py sampleWebsite.com
 ```
 
 ```shell
-sudo python piroute.py <ip adress of sampleWebsite.com> //IP adress of sampleWebsite
+sudo python IcmpiFlood.py <ip adress of sampleWebsite.com> //IP adress of sampleWebsite
 ```
 ## Built With
 
