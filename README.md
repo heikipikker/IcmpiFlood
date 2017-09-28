@@ -36,4 +36,4 @@ sudo python piroute.py <ip adress of sampleWebsite.com> //IP adress of sampleWeb
 Just use this tool for education purposes.
 
 <p align="center">
-<img src="https://github.com/pioneerhfy/IcmpiFlood/blob/master/blastoise-black2.jpg" width="400" height="300">
+<img src="https://github.com/pioneerhfy/IcmpiFlood/blob/master/blastoise-black2.jpg" width="350" height="300">
