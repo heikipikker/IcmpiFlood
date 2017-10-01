@@ -46,7 +46,7 @@ if __name__ == '__main__':
  #  #    # #    # #      # #       #      #    # #    # #    # 
 ###  ####  #    # #      # #       ######  ####   ####  #####  
 
-Author: pioneerhfy - Hakan İlbiz
+Author: pioneerhfy - Hakan ilbiz
 Built With: Python 2.7 and Scapy \033[0m
 	 """
 	print banner
